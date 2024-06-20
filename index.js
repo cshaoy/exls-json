@@ -7,7 +7,7 @@ async function readExcelToJson(filePath) {
         await workbook.xlsx.readFile(filePath);
         const jsonData = [];
         workbook.eachSheet((worksheet, sheetId) => {
-            // const worksheet = workbook.getWorksheet('紫金'); // Assuming the sheet name is '紫金'
+
             console.log(sheetId)
             if (!worksheet) {
                 throw new Error('Worksheet not found in the Excel file.');
