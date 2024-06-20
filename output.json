@@ -1,0 +1,2206 @@
+[
+  {
+    "value": "一级",
+    "label": "一级",
+    "children": [
+      {
+        "value": "二级\n省分公司（直辖市/自治区）",
+        "label": "二级\n省分公司（直辖市/自治区）",
+        "children": [
+          {
+            "value": "三级\n市公司",
+            "label": "三级\n市公司",
+            "children": [
+              {
+                "value": "四级\n区或县",
+                "label": "四级\n区或县",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "value": {
+          "richText": [
+            {
+              "font": {
+                "size": 9,
+                "color": {
+                  "argb": "FF000000"
+                },
+                "name": "Calibri",
+                "charset": 134
+              },
+              "text": "二级\n省分公司（直辖市/自治区）\n"
+            },
+            {
+              "font": {
+                "size": 9,
+                "color": {
+                  "argb": "FFF54A45"
+                },
+                "name": "Calibri",
+                "charset": 134
+              },
+              "text": "也存在省分公司和市公司平级"
+            }
+          ]
+        },
+        "label": {
+          "richText": [
+            {
+              "font": {
+                "size": 9,
+                "color": {
+                  "argb": "FF000000"
+                },
+                "name": "Calibri",
+                "charset": 134
+              },
+              "text": "二级\n省分公司（直辖市/自治区）\n"
+            },
+            {
+              "font": {
+                "size": 9,
+                "color": {
+                  "argb": "FFF54A45"
+                },
+                "name": "Calibri",
+                "charset": 134
+              },
+              "text": "也存在省分公司和市公司平级"
+            }
+          ]
+        },
+        "children": [
+          {
+            "value": "三级\n市公司",
+            "label": "三级\n市公司",
+            "children": [
+              {
+                "value": "四级\n区或县",
+                "label": "四级\n区或县",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "人保财险",
+    "label": "人保财险",
+    "children": [
+      {
+        "value": "广东分公司",
+        "label": "广东分公司",
+        "children": [
+          {
+            "value": "广州分公司",
+            "label": "广州分公司",
+            "children": []
+          },
+          {
+            "value": "韶关分公司",
+            "label": "韶关分公司",
+            "children": []
+          },
+          {
+            "value": "珠海分公司",
+            "label": "珠海分公司",
+            "children": []
+          },
+          {
+            "value": "汕头分公司",
+            "label": "汕头分公司",
+            "children": []
+          },
+          {
+            "value": "佛山分公司",
+            "label": "佛山分公司",
+            "children": []
+          },
+          {
+            "value": "江门分公司",
+            "label": "江门分公司",
+            "children": []
+          },
+          {
+            "value": "湛江分公司",
+            "label": "湛江分公司",
+            "children": []
+          },
+          {
+            "value": "茂名分公司",
+            "label": "茂名分公司",
+            "children": []
+          },
+          {
+            "value": "肇庆分公司",
+            "label": "肇庆分公司",
+            "children": []
+          },
+          {
+            "value": "惠州分公司",
+            "label": "惠州分公司",
+            "children": []
+          },
+          {
+            "value": "梅州分公司",
+            "label": "梅州分公司",
+            "children": []
+          },
+          {
+            "value": "汕尾分公司",
+            "label": "汕尾分公司",
+            "children": []
+          },
+          {
+            "value": "河源分公司",
+            "label": "河源分公司",
+            "children": []
+          },
+          {
+            "value": "阳江分公司",
+            "label": "阳江分公司",
+            "children": []
+          },
+          {
+            "value": "清远分公司",
+            "label": "清远分公司",
+            "children": []
+          },
+          {
+            "value": "东莞分公司",
+            "label": "东莞分公司",
+            "children": []
+          },
+          {
+            "value": "中山分公司",
+            "label": "中山分公司",
+            "children": []
+          },
+          {
+            "value": "潮州分公司",
+            "label": "潮州分公司",
+            "children": []
+          },
+          {
+            "value": "揭阳分公司",
+            "label": "揭阳分公司",
+            "children": []
+          },
+          {
+            "value": "云浮分公司",
+            "label": "云浮分公司",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "广西人保",
+        "label": "广西人保",
+        "children": [
+          {
+            "value": "南宁分公司",
+            "label": "南宁分公司",
+            "children": []
+          },
+          {
+            "value": "桂林分公司",
+            "label": "桂林分公司",
+            "children": []
+          },
+          {
+            "value": "玉林分公司",
+            "label": "玉林分公司",
+            "children": []
+          },
+          {
+            "value": "梧州分公司",
+            "label": "梧州分公司",
+            "children": []
+          },
+          {
+            "value": "百色分公司",
+            "label": "百色分公司",
+            "children": []
+          },
+          {
+            "value": "北海分公司",
+            "label": "北海分公司",
+            "children": []
+          },
+          {
+            "value": "崇左分公司",
+            "label": "崇左分公司",
+            "children": []
+          },
+          {
+            "value": "钦州分公司",
+            "label": "钦州分公司",
+            "children": []
+          },
+          {
+            "value": "防城港分公司",
+            "label": "防城港分公司",
+            "children": []
+          },
+          {
+            "value": "贵港分公司",
+            "label": "贵港分公司",
+            "children": []
+          },
+          {
+            "value": "河池分公司",
+            "label": "河池分公司",
+            "children": []
+          },
+          {
+            "value": "贺州分公司",
+            "label": "贺州分公司",
+            "children": []
+          },
+          {
+            "value": "来宾分公司",
+            "label": "来宾分公司",
+            "children": []
+          },
+          {
+            "value": "柳州分公司",
+            "label": "柳州分公司",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "湖北人保",
+        "label": "湖北人保",
+        "children": [
+          {
+            "value": "武汉人保",
+            "label": "武汉人保",
+            "children": []
+          },
+          {
+            "value": "黄石人保",
+            "label": "黄石人保",
+            "children": []
+          },
+          {
+            "value": "十堰人保",
+            "label": "十堰人保",
+            "children": []
+          },
+          {
+            "value": "宜昌人保",
+            "label": "宜昌人保",
+            "children": []
+          },
+          {
+            "value": "襄阳人保",
+            "label": "襄阳人保",
+            "children": []
+          },
+          {
+            "value": "鄂州人保",
+            "label": "鄂州人保",
+            "children": []
+          },
+          {
+            "value": "荆门人保",
+            "label": "荆门人保",
+            "children": []
+          },
+          {
+            "value": "孝感人保",
+            "label": "孝感人保",
+            "children": []
+          },
+          {
+            "value": "荆州人保",
+            "label": "荆州人保",
+            "children": []
+          },
+          {
+            "value": "黄冈人保",
+            "label": "黄冈人保",
+            "children": []
+          },
+          {
+            "value": "咸宁人保",
+            "label": "咸宁人保",
+            "children": []
+          },
+          {
+            "value": "随州人保",
+            "label": "随州人保",
+            "children": []
+          },
+          {
+            "value": "潜江人保",
+            "label": "潜江人保",
+            "children": []
+          },
+          {
+            "value": "恩施人保",
+            "label": "恩施人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "湖南",
+        "label": "湖南",
+        "children": [
+          {
+            "value": "郴州人保",
+            "label": "郴州人保",
+            "children": []
+          },
+          {
+            "value": "株洲人保",
+            "label": "株洲人保",
+            "children": []
+          },
+          {
+            "value": "张家界人保",
+            "label": "张家界人保",
+            "children": []
+          },
+          {
+            "value": "永州人保",
+            "label": "永州人保",
+            "children": []
+          },
+          {
+            "value": "湘西人保",
+            "label": "湘西人保",
+            "children": []
+          },
+          {
+            "value": "益阳人保",
+            "label": "益阳人保",
+            "children": []
+          },
+          {
+            "value": "岳阳人保",
+            "label": "岳阳人保",
+            "children": []
+          },
+          {
+            "value": "湘潭人保",
+            "label": "湘潭人保",
+            "children": []
+          },
+          {
+            "value": "衡阳人保",
+            "label": "衡阳人保",
+            "children": []
+          },
+          {
+            "value": "邵阳人保",
+            "label": "邵阳人保",
+            "children": []
+          },
+          {
+            "value": "怀化人保",
+            "label": "怀化人保",
+            "children": []
+          },
+          {
+            "value": "常德人保",
+            "label": "常德人保",
+            "children": []
+          },
+          {
+            "value": "长沙人保",
+            "label": "长沙人保",
+            "children": []
+          },
+          {
+            "value": "娄底人保",
+            "label": "娄底人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "山东",
+        "label": "山东",
+        "children": [
+          {
+            "value": "济南人保",
+            "label": "济南人保",
+            "children": []
+          },
+          {
+            "value": "淄博人保",
+            "label": "淄博人保",
+            "children": []
+          },
+          {
+            "value": "枣庄人保",
+            "label": "枣庄人保",
+            "children": []
+          },
+          {
+            "value": "东营人保",
+            "label": "东营人保",
+            "children": []
+          },
+          {
+            "value": "烟台人保",
+            "label": "烟台人保",
+            "children": []
+          },
+          {
+            "value": "潍坊人保",
+            "label": "潍坊人保",
+            "children": []
+          },
+          {
+            "value": "济宁人保",
+            "label": "济宁人保",
+            "children": []
+          },
+          {
+            "value": "泰安人保",
+            "label": "泰安人保",
+            "children": []
+          },
+          {
+            "value": "威海人保",
+            "label": "威海人保",
+            "children": []
+          },
+          {
+            "value": "日照人保",
+            "label": "日照人保",
+            "children": []
+          },
+          {
+            "value": "莱芜人保",
+            "label": "莱芜人保",
+            "children": []
+          },
+          {
+            "value": "临沂人保",
+            "label": "临沂人保",
+            "children": []
+          },
+          {
+            "value": "德州人保",
+            "label": "德州人保",
+            "children": []
+          },
+          {
+            "value": "聊城人保",
+            "label": "聊城人保",
+            "children": []
+          },
+          {
+            "value": "滨州人保",
+            "label": "滨州人保",
+            "children": []
+          },
+          {
+            "value": "菏泽人保",
+            "label": "菏泽人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "山西",
+        "label": "山西",
+        "children": [
+          {
+            "value": "大同人保",
+            "label": "大同人保",
+            "children": []
+          },
+          {
+            "value": "长治人保",
+            "label": "长治人保",
+            "children": []
+          },
+          {
+            "value": "晋城人保",
+            "label": "晋城人保",
+            "children": []
+          },
+          {
+            "value": "吕梁人保",
+            "label": "吕梁人保",
+            "children": []
+          },
+          {
+            "value": "晋中人保",
+            "label": "晋中人保",
+            "children": []
+          },
+          {
+            "value": "临汾人保",
+            "label": "临汾人保",
+            "children": []
+          },
+          {
+            "value": "运城人保",
+            "label": "运城人保",
+            "children": []
+          },
+          {
+            "value": "太原人保",
+            "label": "太原人保",
+            "children": []
+          },
+          {
+            "value": "阳泉人保",
+            "label": "阳泉人保",
+            "children": []
+          },
+          {
+            "value": "朔州人保",
+            "label": "朔州人保",
+            "children": []
+          },
+          {
+            "value": "忻州人保",
+            "label": "忻州人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "陕西",
+        "label": "陕西",
+        "children": [
+          {
+            "value": "西安人保",
+            "label": "西安人保",
+            "children": []
+          },
+          {
+            "value": "铜川人保",
+            "label": "铜川人保",
+            "children": []
+          },
+          {
+            "value": "宝鸡人保",
+            "label": "宝鸡人保",
+            "children": []
+          },
+          {
+            "value": "咸阳人保",
+            "label": "咸阳人保",
+            "children": []
+          },
+          {
+            "value": "渭南人保",
+            "label": "渭南人保",
+            "children": []
+          },
+          {
+            "value": "延安人保",
+            "label": "延安人保",
+            "children": []
+          },
+          {
+            "value": "汉中人保",
+            "label": "汉中人保",
+            "children": []
+          },
+          {
+            "value": "安康人保",
+            "label": "安康人保",
+            "children": []
+          },
+          {
+            "value": "商洛人保",
+            "label": "商洛人保",
+            "children": []
+          },
+          {
+            "value": "榆林人保",
+            "label": "榆林人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "青海",
+        "label": "青海",
+        "children": [
+          {
+            "value": "西宁中心",
+            "label": "西宁中心",
+            "children": []
+          },
+          {
+            "value": "海东中心",
+            "label": "海东中心",
+            "children": []
+          },
+          {
+            "value": "海南州中心",
+            "label": "海南州中心",
+            "children": []
+          },
+          {
+            "value": "海北中心",
+            "label": "海北中心",
+            "children": []
+          },
+          {
+            "value": "海西中心",
+            "label": "海西中心",
+            "children": []
+          },
+          {
+            "value": "格尔木中心",
+            "label": "格尔木中心",
+            "children": []
+          },
+          {
+            "value": "黄南中心",
+            "label": "黄南中心",
+            "children": []
+          },
+          {
+            "value": "果洛中心",
+            "label": "果洛中心",
+            "children": []
+          },
+          {
+            "value": "玉树中心",
+            "label": "玉树中心",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "河南",
+        "label": "河南",
+        "children": [
+          {
+            "value": "开封人保",
+            "label": "开封人保",
+            "children": []
+          },
+          {
+            "value": "三门峡人保",
+            "label": "三门峡人保",
+            "children": []
+          },
+          {
+            "value": "濮阳人保",
+            "label": "濮阳人保",
+            "children": []
+          },
+          {
+            "value": "驻马店人保",
+            "label": "驻马店人保",
+            "children": []
+          },
+          {
+            "value": "济源人保",
+            "label": "济源人保",
+            "children": []
+          },
+          {
+            "value": "郑州人保",
+            "label": "郑州人保",
+            "children": []
+          },
+          {
+            "value": "信阳人保",
+            "label": "信阳人保",
+            "children": []
+          },
+          {
+            "value": "南阳人保",
+            "label": "南阳人保",
+            "children": []
+          },
+          {
+            "value": "平顶山人保",
+            "label": "平顶山人保",
+            "children": []
+          },
+          {
+            "value": "周口人保",
+            "label": "周口人保",
+            "children": []
+          },
+          {
+            "value": "焦作人保",
+            "label": "焦作人保",
+            "children": []
+          },
+          {
+            "value": "洛阳人保",
+            "label": "洛阳人保",
+            "children": []
+          },
+          {
+            "value": "安阳人保",
+            "label": "安阳人保",
+            "children": []
+          },
+          {
+            "value": "漯河人保",
+            "label": "漯河人保",
+            "children": []
+          },
+          {
+            "value": "许昌人保",
+            "label": "许昌人保",
+            "children": []
+          },
+          {
+            "value": "商丘人保",
+            "label": "商丘人保",
+            "children": []
+          },
+          {
+            "value": "鹤壁人保",
+            "label": "鹤壁人保",
+            "children": []
+          },
+          {
+            "value": "新乡人保",
+            "label": "新乡人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "云南",
+        "label": "云南",
+        "children": [
+          {
+            "value": "昆明分公司",
+            "label": "昆明分公司",
+            "children": []
+          },
+          {
+            "value": "曲靖分公司",
+            "label": "曲靖分公司",
+            "children": []
+          },
+          {
+            "value": "玉溪分公司",
+            "label": "玉溪分公司",
+            "children": []
+          },
+          {
+            "value": "昭通分公司",
+            "label": "昭通分公司",
+            "children": []
+          },
+          {
+            "value": "楚雄分公司",
+            "label": "楚雄分公司",
+            "children": []
+          },
+          {
+            "value": "红河分公司",
+            "label": "红河分公司",
+            "children": []
+          },
+          {
+            "value": "文山分公司",
+            "label": "文山分公司",
+            "children": []
+          },
+          {
+            "value": "普洱分公司",
+            "label": "普洱分公司",
+            "children": []
+          },
+          {
+            "value": "西双版纳分公司",
+            "label": "西双版纳分公司",
+            "children": []
+          },
+          {
+            "value": "大理分公司",
+            "label": "大理分公司",
+            "children": []
+          },
+          {
+            "value": "保山分公司",
+            "label": "保山分公司",
+            "children": []
+          },
+          {
+            "value": "德宏分公司",
+            "label": "德宏分公司",
+            "children": []
+          },
+          {
+            "value": "丽江分公司",
+            "label": "丽江分公司",
+            "children": []
+          },
+          {
+            "value": "怒江分公司",
+            "label": "怒江分公司",
+            "children": []
+          },
+          {
+            "value": "迪庆分公司",
+            "label": "迪庆分公司",
+            "children": []
+          },
+          {
+            "value": "临沧分公司",
+            "label": "临沧分公司",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "贵州",
+        "label": "贵州",
+        "children": [
+          {
+            "value": "贵阳分公司",
+            "label": "贵阳分公司",
+            "children": []
+          },
+          {
+            "value": "六盘水分公司",
+            "label": "六盘水分公司",
+            "children": []
+          },
+          {
+            "value": "遵义分公司",
+            "label": "遵义分公司",
+            "children": []
+          },
+          {
+            "value": "铜仁分公司",
+            "label": "铜仁分公司",
+            "children": []
+          },
+          {
+            "value": "黔西南分公司",
+            "label": "黔西南分公司",
+            "children": []
+          },
+          {
+            "value": "毕节分公司",
+            "label": "毕节分公司",
+            "children": []
+          },
+          {
+            "value": "安顺分公司",
+            "label": "安顺分公司",
+            "children": []
+          },
+          {
+            "value": "黔东南分公司",
+            "label": "黔东南分公司",
+            "children": []
+          },
+          {
+            "value": "黔南分公司",
+            "label": "黔南分公司",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "海南",
+        "label": "海南",
+        "children": [
+          {
+            "value": "琼海支公司",
+            "label": "琼海支公司",
+            "children": []
+          },
+          {
+            "value": "儋州支公司",
+            "label": "儋州支公司",
+            "children": []
+          },
+          {
+            "value": "临高支公司",
+            "label": "临高支公司",
+            "children": []
+          },
+          {
+            "value": "文昌支公司",
+            "label": "文昌支公司",
+            "children": []
+          },
+          {
+            "value": "万宁支公司",
+            "label": "万宁支公司",
+            "children": []
+          },
+          {
+            "value": "东方支公司",
+            "label": "东方支公司",
+            "children": []
+          },
+          {
+            "value": "定安支公司",
+            "label": "定安支公司",
+            "children": []
+          },
+          {
+            "value": "屯昌支公司",
+            "label": "屯昌支公司",
+            "children": []
+          },
+          {
+            "value": "澄迈支公司",
+            "label": "澄迈支公司",
+            "children": []
+          },
+          {
+            "value": "白沙支公司",
+            "label": "白沙支公司",
+            "children": []
+          },
+          {
+            "value": "昌江支公司",
+            "label": "昌江支公司",
+            "children": []
+          },
+          {
+            "value": "乐东支公司",
+            "label": "乐东支公司",
+            "children": []
+          },
+          {
+            "value": "保亭支公司",
+            "label": "保亭支公司",
+            "children": []
+          },
+          {
+            "value": "琼中支公司",
+            "label": "琼中支公司",
+            "children": []
+          },
+          {
+            "value": "三沙支公司",
+            "label": "三沙支公司",
+            "children": []
+          },
+          {
+            "value": "洋浦支公司",
+            "label": "洋浦支公司",
+            "children": []
+          },
+          {
+            "value": "海口市分公司",
+            "label": "海口市分公司",
+            "children": []
+          },
+          {
+            "value": "陵水支公司",
+            "label": "陵水支公司",
+            "children": []
+          },
+          {
+            "value": "五指山支公司",
+            "label": "五指山支公司",
+            "children": []
+          },
+          {
+            "value": "三亚市支公司",
+            "label": "三亚市支公司",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "甘肃",
+        "label": "甘肃",
+        "children": [
+          {
+            "value": "平凉人保",
+            "label": "平凉人保",
+            "children": []
+          },
+          {
+            "value": "定西人保",
+            "label": "定西人保",
+            "children": []
+          },
+          {
+            "value": "兰州人保",
+            "label": "兰州人保",
+            "children": []
+          },
+          {
+            "value": "临夏人保",
+            "label": "临夏人保",
+            "children": []
+          },
+          {
+            "value": "嘉峪关人保",
+            "label": "嘉峪关人保",
+            "children": []
+          },
+          {
+            "value": "甘南州人保",
+            "label": "甘南州人保",
+            "children": []
+          },
+          {
+            "value": "天水人保",
+            "label": "天水人保",
+            "children": []
+          },
+          {
+            "value": "白银人保",
+            "label": "白银人保",
+            "children": []
+          },
+          {
+            "value": "张掖人保",
+            "label": "张掖人保",
+            "children": []
+          },
+          {
+            "value": "陇南人保",
+            "label": "陇南人保",
+            "children": []
+          },
+          {
+            "value": "金昌人保",
+            "label": "金昌人保",
+            "children": []
+          },
+          {
+            "value": "武威人保",
+            "label": "武威人保",
+            "children": []
+          },
+          {
+            "value": "酒泉人保",
+            "label": "酒泉人保",
+            "children": []
+          },
+          {
+            "value": "庆阳人保",
+            "label": "庆阳人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "江西",
+        "label": "江西",
+        "children": [
+          {
+            "value": "南昌人保",
+            "label": "南昌人保",
+            "children": []
+          },
+          {
+            "value": "九江人保",
+            "label": "九江人保",
+            "children": []
+          },
+          {
+            "value": "赣州人保",
+            "label": "赣州人保",
+            "children": []
+          },
+          {
+            "value": "宜春人保",
+            "label": "宜春人保",
+            "children": []
+          },
+          {
+            "value": "上饶人保",
+            "label": "上饶人保",
+            "children": []
+          },
+          {
+            "value": "吉安人保",
+            "label": "吉安人保",
+            "children": []
+          },
+          {
+            "value": "鹰潭人保",
+            "label": "鹰潭人保",
+            "children": []
+          },
+          {
+            "value": "新余人保",
+            "label": "新余人保",
+            "children": []
+          },
+          {
+            "value": "萍乡人保",
+            "label": "萍乡人保",
+            "children": []
+          },
+          {
+            "value": "景德镇人保",
+            "label": "景德镇人保",
+            "children": []
+          },
+          {
+            "value": "抚州人保",
+            "label": "抚州人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "吉林",
+        "label": "吉林",
+        "children": [
+          {
+            "value": "长春人保",
+            "label": "长春人保",
+            "children": []
+          },
+          {
+            "value": "吉林市人保",
+            "label": "吉林市人保",
+            "children": []
+          },
+          {
+            "value": "白城人保",
+            "label": "白城人保",
+            "children": []
+          },
+          {
+            "value": "辽源人保",
+            "label": "辽源人保",
+            "children": []
+          },
+          {
+            "value": "四平人保",
+            "label": "四平人保",
+            "children": []
+          },
+          {
+            "value": "松原人保",
+            "label": "松原人保",
+            "children": []
+          },
+          {
+            "value": "通化人保",
+            "label": "通化人保",
+            "children": []
+          },
+          {
+            "value": "延边人保",
+            "label": "延边人保",
+            "children": []
+          },
+          {
+            "value": "白山人保",
+            "label": "白山人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "黑龙江",
+        "label": "黑龙江",
+        "children": [
+          {
+            "value": "大庆人保",
+            "label": "大庆人保",
+            "children": []
+          },
+          {
+            "value": "大兴安岭人保",
+            "label": "大兴安岭人保",
+            "children": []
+          },
+          {
+            "value": "哈尔滨人保",
+            "label": "哈尔滨人保",
+            "children": []
+          },
+          {
+            "value": "哈郊人保",
+            "label": "哈郊人保",
+            "children": []
+          },
+          {
+            "value": "鹤岗人保",
+            "label": "鹤岗人保",
+            "children": []
+          },
+          {
+            "value": "黑河人保",
+            "label": "黑河人保",
+            "children": []
+          },
+          {
+            "value": "鸡西人保",
+            "label": "鸡西人保",
+            "children": []
+          },
+          {
+            "value": "佳木斯人保",
+            "label": "佳木斯人保",
+            "children": []
+          },
+          {
+            "value": "牡丹江人保",
+            "label": "牡丹江人保",
+            "children": []
+          },
+          {
+            "value": "七台河人保",
+            "label": "七台河人保",
+            "children": []
+          },
+          {
+            "value": "双鸭山人保",
+            "label": "双鸭山人保",
+            "children": []
+          },
+          {
+            "value": "绥化人保",
+            "label": "绥化人保",
+            "children": []
+          },
+          {
+            "value": "伊春人保",
+            "label": "伊春人保",
+            "children": []
+          },
+          {
+            "value": "齐齐哈尔人保",
+            "label": "齐齐哈尔人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "福建",
+        "label": "福建",
+        "children": [
+          {
+            "value": "福州人保",
+            "label": "福州人保",
+            "children": []
+          },
+          {
+            "value": "南平人保",
+            "label": "南平人保",
+            "children": []
+          },
+          {
+            "value": "宁德人保",
+            "label": "宁德人保",
+            "children": []
+          },
+          {
+            "value": "晋江人保",
+            "label": "晋江人保",
+            "children": []
+          },
+          {
+            "value": "莆田人保",
+            "label": "莆田人保",
+            "children": []
+          },
+          {
+            "value": "三明人保",
+            "label": "三明人保",
+            "children": []
+          },
+          {
+            "value": "漳州人保",
+            "label": "漳州人保",
+            "children": []
+          },
+          {
+            "value": "龙岩人保",
+            "label": "龙岩人保",
+            "children": []
+          },
+          {
+            "value": "榕城人保",
+            "label": "榕城人保",
+            "children": []
+          },
+          {
+            "value": "泉州人保",
+            "label": "泉州人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "辽宁",
+        "label": "辽宁",
+        "children": [
+          {
+            "value": "沈阳人保",
+            "label": "沈阳人保",
+            "children": []
+          },
+          {
+            "value": "鞍山人保",
+            "label": "鞍山人保",
+            "children": []
+          },
+          {
+            "value": "抚顺人保",
+            "label": "抚顺人保",
+            "children": []
+          },
+          {
+            "value": "本溪人保",
+            "label": "本溪人保",
+            "children": []
+          },
+          {
+            "value": "丹东人保",
+            "label": "丹东人保",
+            "children": []
+          },
+          {
+            "value": "锦州人保",
+            "label": "锦州人保",
+            "children": []
+          },
+          {
+            "value": "营口人保",
+            "label": "营口人保",
+            "children": []
+          },
+          {
+            "value": "阜新人保",
+            "label": "阜新人保",
+            "children": []
+          },
+          {
+            "value": "辽阳人保",
+            "label": "辽阳人保",
+            "children": []
+          },
+          {
+            "value": "盘锦人保",
+            "label": "盘锦人保",
+            "children": []
+          },
+          {
+            "value": "铁岭人保",
+            "label": "铁岭人保",
+            "children": []
+          },
+          {
+            "value": "朝阳人保",
+            "label": "朝阳人保",
+            "children": []
+          },
+          {
+            "value": "葫芦岛人保",
+            "label": "葫芦岛人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "北京",
+        "label": "北京",
+        "children": [
+          {
+            "value": "东区理赔分部",
+            "label": "东区理赔分部",
+            "children": []
+          },
+          {
+            "value": "西区理赔分部",
+            "label": "西区理赔分部",
+            "children": []
+          },
+          {
+            "value": "南区理赔分部",
+            "label": "南区理赔分部",
+            "children": []
+          },
+          {
+            "value": "北区理赔分部",
+            "label": "北区理赔分部",
+            "children": []
+          },
+          {
+            "value": "副中心理赔分部",
+            "label": "副中心理赔分部",
+            "children": []
+          },
+          {
+            "value": "密云理赔分部",
+            "label": "密云理赔分部",
+            "children": []
+          },
+          {
+            "value": "怀柔理赔分部",
+            "label": "怀柔理赔分部",
+            "children": []
+          },
+          {
+            "value": "顺义理赔分部",
+            "label": "顺义理赔分部",
+            "children": []
+          },
+          {
+            "value": "平谷理赔分部",
+            "label": "平谷理赔分部",
+            "children": []
+          },
+          {
+            "value": "大兴理赔分部",
+            "label": "大兴理赔分部",
+            "children": []
+          },
+          {
+            "value": "房山理赔分部",
+            "label": "房山理赔分部",
+            "children": []
+          },
+          {
+            "value": "昌平理赔分部",
+            "label": "昌平理赔分部",
+            "children": []
+          },
+          {
+            "value": "延庆理赔分部",
+            "label": "延庆理赔分部",
+            "children": []
+          },
+          {
+            "value": "开发区理赔分部",
+            "label": "开发区理赔分部",
+            "children": []
+          },
+          {
+            "value": "通州理赔分部",
+            "label": "通州理赔分部",
+            "children": []
+          },
+          {
+            "value": "门头沟理赔分部",
+            "label": "门头沟理赔分部",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "上海",
+        "label": "上海",
+        "children": [
+          {
+            "value": "市东理赔分中心",
+            "label": "市东理赔分中心",
+            "children": []
+          },
+          {
+            "value": "市西理赔分中心",
+            "label": "市西理赔分中心",
+            "children": []
+          },
+          {
+            "value": "市中理赔分中心",
+            "label": "市中理赔分中心",
+            "children": []
+          },
+          {
+            "value": "临港新区分部",
+            "label": "临港新区分部",
+            "children": []
+          },
+          {
+            "value": "宝山分部",
+            "label": "宝山分部",
+            "children": []
+          },
+          {
+            "value": "崇明分部",
+            "label": "崇明分部",
+            "children": []
+          },
+          {
+            "value": "嘉定分部",
+            "label": "嘉定分部",
+            "children": []
+          },
+          {
+            "value": "金山分部",
+            "label": "金山分部",
+            "children": []
+          },
+          {
+            "value": "闵行分部",
+            "label": "闵行分部",
+            "children": []
+          },
+          {
+            "value": "南汇分部",
+            "label": "南汇分部",
+            "children": []
+          },
+          {
+            "value": "松江分部",
+            "label": "松江分部",
+            "children": []
+          },
+          {
+            "value": "奉贤分部",
+            "label": "奉贤分部",
+            "children": []
+          },
+          {
+            "value": "浦东分部",
+            "label": "浦东分部",
+            "children": []
+          },
+          {
+            "value": "青浦分部",
+            "label": "青浦分部",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "天津",
+        "label": "天津",
+        "children": [
+          {
+            "value": "城区理赔分部",
+            "label": "城区理赔分部",
+            "children": []
+          },
+          {
+            "value": "东丽理赔分部",
+            "label": "东丽理赔分部",
+            "children": []
+          },
+          {
+            "value": "西青理赔分部",
+            "label": "西青理赔分部",
+            "children": []
+          },
+          {
+            "value": "北辰理赔分部",
+            "label": "北辰理赔分部",
+            "children": []
+          },
+          {
+            "value": "武清理赔分部",
+            "label": "武清理赔分部",
+            "children": []
+          },
+          {
+            "value": "宝坻理赔分部",
+            "label": "宝坻理赔分部",
+            "children": []
+          },
+          {
+            "value": "静海理赔分部",
+            "label": "静海理赔分部",
+            "children": []
+          },
+          {
+            "value": "蓟州理赔分部",
+            "label": "蓟州理赔分部",
+            "children": []
+          },
+          {
+            "value": "津港理赔分部",
+            "label": "津港理赔分部",
+            "children": []
+          },
+          {
+            "value": "宁汉理赔分部",
+            "label": "宁汉理赔分部",
+            "children": []
+          },
+          {
+            "value": "滨城理赔分部",
+            "label": "滨城理赔分部",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "重庆",
+        "label": "重庆",
+        "children": [
+          {
+            "value": "重庆渝中支公司",
+            "label": "重庆渝中支公司",
+            "children": []
+          },
+          {
+            "value": "重庆大渡口支公司",
+            "label": "重庆大渡口支公司",
+            "children": []
+          },
+          {
+            "value": "重庆江北支公司",
+            "label": "重庆江北支公司",
+            "children": []
+          },
+          {
+            "value": "重庆沙坪坝支公司",
+            "label": "重庆沙坪坝支公司",
+            "children": []
+          },
+          {
+            "value": "重庆九龙坡支公司",
+            "label": "重庆九龙坡支公司",
+            "children": []
+          },
+          {
+            "value": "重庆南岸支公司",
+            "label": "重庆南岸支公司",
+            "children": []
+          },
+          {
+            "value": "重庆北碚支公司",
+            "label": "重庆北碚支公司",
+            "children": []
+          },
+          {
+            "value": "重庆万盛支公司",
+            "label": "重庆万盛支公司",
+            "children": []
+          },
+          {
+            "value": "西部(重庆) 科学城支公司",
+            "label": "西部(重庆) 科学城支公司",
+            "children": []
+          },
+          {
+            "value": "重庆渝北支公司",
+            "label": "重庆渝北支公司",
+            "children": []
+          },
+          {
+            "value": "重庆巴南支公司",
+            "label": "重庆巴南支公司",
+            "children": []
+          },
+          {
+            "value": "重庆长寿支公司",
+            "label": "重庆长寿支公司",
+            "children": []
+          },
+          {
+            "value": "重庆綦江支公司",
+            "label": "重庆綦江支公司",
+            "children": []
+          },
+          {
+            "value": "重庆潼南支公司",
+            "label": "重庆潼南支公司",
+            "children": []
+          },
+          {
+            "value": "重庆铜梁支公司",
+            "label": "重庆铜梁支公司",
+            "children": []
+          },
+          {
+            "value": "重庆大足支公司",
+            "label": "重庆大足支公司",
+            "children": []
+          },
+          {
+            "value": "重庆荣昌支公司",
+            "label": "重庆荣昌支公司",
+            "children": []
+          },
+          {
+            "value": "重庆璧山支公司",
+            "label": "重庆璧山支公司",
+            "children": []
+          },
+          {
+            "value": "重庆江津支公司",
+            "label": "重庆江津支公司",
+            "children": []
+          },
+          {
+            "value": "重庆合川支公司",
+            "label": "重庆合川支公司",
+            "children": []
+          },
+          {
+            "value": "重庆永川支公司",
+            "label": "重庆永川支公司",
+            "children": []
+          },
+          {
+            "value": "重庆万州分公司",
+            "label": "重庆万州分公司",
+            "children": []
+          },
+          {
+            "value": "重庆涪陵分公司",
+            "label": "重庆涪陵分公司",
+            "children": []
+          },
+          {
+            "value": "重庆黔江分公司",
+            "label": "重庆黔江分公司",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "宁夏",
+        "label": "宁夏",
+        "children": [
+          {
+            "value": "银川分公司",
+            "label": "银川分公司",
+            "children": []
+          },
+          {
+            "value": "石嘴山分公司",
+            "label": "石嘴山分公司",
+            "children": []
+          },
+          {
+            "value": "吴忠分公司",
+            "label": "吴忠分公司",
+            "children": []
+          },
+          {
+            "value": "固原分公司",
+            "label": "固原分公司",
+            "children": []
+          },
+          {
+            "value": "中卫分公司",
+            "label": "中卫分公司",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "新疆",
+        "label": "新疆",
+        "children": [
+          {
+            "value": "乌鲁木齐人保",
+            "label": "乌鲁木齐人保",
+            "children": []
+          },
+          {
+            "value": "阿克苏人保",
+            "label": "阿克苏人保",
+            "children": []
+          },
+          {
+            "value": "克拉玛依人保",
+            "label": "克拉玛依人保",
+            "children": []
+          },
+          {
+            "value": "奎屯人保",
+            "label": "奎屯人保",
+            "children": []
+          },
+          {
+            "value": "阿勒泰人保",
+            "label": "阿勒泰人保",
+            "children": []
+          },
+          {
+            "value": "哈密人保",
+            "label": "哈密人保",
+            "children": []
+          },
+          {
+            "value": "和田人保",
+            "label": "和田人保",
+            "children": []
+          },
+          {
+            "value": "喀什人保",
+            "label": "喀什人保",
+            "children": []
+          },
+          {
+            "value": "吐鲁番人保",
+            "label": "吐鲁番人保",
+            "children": []
+          },
+          {
+            "value": "昌吉人保",
+            "label": "昌吉人保",
+            "children": []
+          },
+          {
+            "value": "克州人保",
+            "label": "克州人保",
+            "children": []
+          },
+          {
+            "value": "石河子人保",
+            "label": "石河子人保",
+            "children": []
+          },
+          {
+            "value": "博州人保",
+            "label": "博州人保",
+            "children": []
+          },
+          {
+            "value": "塔城人保",
+            "label": "塔城人保",
+            "children": []
+          },
+          {
+            "value": "伊犁人保",
+            "label": "伊犁人保",
+            "children": []
+          },
+          {
+            "value": "巴州人保",
+            "label": "巴州人保",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "西藏",
+        "label": "西藏",
+        "children": [
+          {
+            "value": "拉萨查勘定损一组",
+            "label": "拉萨查勘定损一组",
+            "children": []
+          },
+          {
+            "value": "林芝查勘定损二组",
+            "label": "林芝查勘定损二组",
+            "children": []
+          },
+          {
+            "value": "山南查勘定损三组",
+            "label": "山南查勘定损三组",
+            "children": []
+          },
+          {
+            "value": "日喀则查勘定损四组",
+            "label": "日喀则查勘定损四组",
+            "children": []
+          },
+          {
+            "value": "阿里查勘定损五组",
+            "label": "阿里查勘定损五组",
+            "children": []
+          },
+          {
+            "value": "那曲查勘定损六组",
+            "label": "那曲查勘定损六组",
+            "children": []
+          },
+          {
+            "value": "昌都查勘定损七组",
+            "label": "昌都查勘定损七组",
+            "children": []
+          },
+          {
+            "value": "成办查勘定损一组",
+            "label": "成办查勘定损一组",
+            "children": []
+          },
+          {
+            "value": "格办查勘定损一组",
+            "label": "格办查勘定损一组",
+            "children": []
+          },
+          {
+            "value": "格尔木",
+            "label": "格尔木",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "内蒙古",
+        "label": "内蒙古",
+        "children": [
+          {
+            "value": "呼和浩特人保",
+            "label": "呼和浩特人保",
+            "children": []
+          },
+          {
+            "value": "包头人保",
+            "label": "包头人保",
+            "children": []
+          },
+          {
+            "value": "乌海人保",
+            "label": "乌海人保",
+            "children": []
+          },
+          {
+            "value": "赤峰人保",
+            "label": "赤峰人保",
+            "children": []
+          },
+          {
+            "value": "满洲里人保",
+            "label": "满洲里人保",
+            "children": []
+          },
+          {
+            "value": "呼伦贝尔人保",
+            "label": "呼伦贝尔人保",
+            "children": []
+          },
+          {
+            "value": "兴安盟人保",
+            "label": "兴安盟人保",
+            "children": []
+          },
+          {
+            "value": "通辽人保",
+            "label": "通辽人保",
+            "children": []
+          },
+          {
+            "value": "锡林郭勒盟人保",
+            "label": "锡林郭勒盟人保",
+            "children": []
+          },
+          {
+            "value": "乌兰察布人保",
+            "label": "乌兰察布人保",
+            "children": []
+          },
+          {
+            "value": "鄂尔多斯人保",
+            "label": "鄂尔多斯人保",
+            "children": []
+          },
+          {
+            "value": "巴彦淖尔人保",
+            "label": "巴彦淖尔人保",
+            "children": []
+          },
+          {
+            "value": "阿拉善盟人保",
+            "label": "阿拉善盟人保",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "紫金",
+    "label": "紫金",
+    "children": [
+      {
+        "value": "江苏分公司",
+        "label": "江苏分公司",
+        "children": [
+          {
+            "value": "常州中心支公司",
+            "label": "常州中心支公司",
+            "children": []
+          },
+          {
+            "value": "淮安中心支公司",
+            "label": "淮安中心支公司",
+            "children": []
+          },
+          {
+            "value": "连云港中心支公司",
+            "label": "连云港中心支公司",
+            "children": []
+          },
+          {
+            "value": "南京分公司",
+            "label": "南京分公司",
+            "children": []
+          },
+          {
+            "value": "南通中心支公司",
+            "label": "南通中心支公司",
+            "children": []
+          },
+          {
+            "value": "苏州分公司",
+            "label": "苏州分公司",
+            "children": []
+          },
+          {
+            "value": "泰州中心支公司",
+            "label": "泰州中心支公司",
+            "children": []
+          },
+          {
+            "value": "无锡分公司",
+            "label": "无锡分公司",
+            "children": []
+          },
+          {
+            "value": "宿迁分公司",
+            "label": "宿迁分公司",
+            "children": []
+          },
+          {
+            "value": "徐州中心支公司",
+            "label": "徐州中心支公司",
+            "children": []
+          },
+          {
+            "value": "盐城中心支公司",
+            "label": "盐城中心支公司",
+            "children": []
+          },
+          {
+            "value": "扬州中心支公司",
+            "label": "扬州中心支公司",
+            "children": []
+          },
+          {
+            "value": "镇江中心支公司",
+            "label": "镇江中心支公司",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "安徽分公司",
+        "label": "安徽分公司",
+        "children": []
+      },
+      {
+        "value": "北京分公司",
+        "label": "北京分公司",
+        "children": []
+      },
+      {
+        "value": "福建分公司",
+        "label": "福建分公司",
+        "children": []
+      },
+      {
+        "value": "广东分公司",
+        "label": "广东分公司",
+        "children": []
+      },
+      {
+        "value": "广西分公司",
+        "label": "广西分公司",
+        "children": []
+      },
+      {
+        "value": "海南分公司",
+        "label": "海南分公司",
+        "children": []
+      },
+      {
+        "value": "河北分公司",
+        "label": "河北分公司",
+        "children": []
+      },
+      {
+        "value": "河南分公司",
+        "label": "河南分公司",
+        "children": []
+      },
+      {
+        "value": "湖北分公司",
+        "label": "湖北分公司",
+        "children": []
+      },
+      {
+        "value": "湖南分公司",
+        "label": "湖南分公司",
+        "children": []
+      },
+      {
+        "value": "辽宁分公司",
+        "label": "辽宁分公司",
+        "children": []
+      },
+      {
+        "value": "内蒙古分公司",
+        "label": "内蒙古分公司",
+        "children": []
+      },
+      {
+        "value": "宁波分公司",
+        "label": "宁波分公司",
+        "children": []
+      },
+      {
+        "value": "青岛分公司",
+        "label": "青岛分公司",
+        "children": []
+      },
+      {
+        "value": "厦门分公司",
+        "label": "厦门分公司",
+        "children": []
+      },
+      {
+        "value": "山东分公司",
+        "label": "山东分公司",
+        "children": []
+      },
+      {
+        "value": "山西分公司",
+        "label": "山西分公司",
+        "children": []
+      },
+      {
+        "value": "陕西分公司",
+        "label": "陕西分公司",
+        "children": []
+      },
+      {
+        "value": "上海分公司",
+        "label": "上海分公司",
+        "children": []
+      },
+      {
+        "value": "深圳分公司",
+        "label": "深圳分公司",
+        "children": []
+      },
+      {
+        "value": "四川分公司",
+        "label": "四川分公司",
+        "children": []
+      },
+      {
+        "value": "天津分公司",
+        "label": "天津分公司",
+        "children": []
+      },
+      {
+        "value": "云南分公司",
+        "label": "云南分公司",
+        "children": []
+      },
+      {
+        "value": "浙江分公司",
+        "label": "浙江分公司",
+        "children": []
+      }
+    ]
+  }
+]
